@@ -1,6 +1,6 @@
 # Hi there, I'm Divyansh Shekhar 👋
 
-![Profile Banner](profile_banner_1765061604984.png)
+![Profile Banner](profile_banner.png)
 
 ## 🎓 About Me
 
