@@ -1,7 +1,5 @@
 # Hi there, I'm Divyansh Shekhar 👋
 
-![Profile Banner](profile_banner.png)
-
 ## 🎓 About Me
 
 I'm a passionate **student** and **aspiring Data Scientist** on a mission to leverage data for meaningful insights and innovative solutions. Currently diving deep into **Machine Learning** and exploring the fascinating world of artificial intelligence.
